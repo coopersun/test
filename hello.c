@@ -9,8 +9,8 @@ int main(void)
     
     printf("hello,world!\n");
     
-    return 1;
+    return 0;
 
 
 }
-//hellohello      
+
